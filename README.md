@@ -3,7 +3,6 @@
   
   
   
-  
 ## Design : Sprites
 using
 
