@@ -26,9 +26,8 @@ if user passed each stage, it will be shown light blue
 ## Player
 player is motivated my real dog  
 
-![player](./images/player.JPG)  
-<img src = './images/dog2.jpg' width = '150px' height = '200px'     
-img src = './images/dog2.jpg' width = '150px' height = '200px' />   
+![player](./images/player.JPG)
+<img src = './images/dog2.jpg' width = '150px' height = '200px'/>  
 
 ## items
 there many items to help user  
