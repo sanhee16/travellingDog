@@ -11,6 +11,8 @@ draw sprites(16px X 16px)
 ![monster](./Assets/Sprites/monster.png)    
 
 ## Scenes  
-two **Scenes**  1. stage select  2. each stage game  
+two **Scenes**  
+1. stage select  
+2. each stage game  
 
 
