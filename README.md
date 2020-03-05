@@ -17,7 +17,7 @@ user can select stage.
 if user passed each stage, it will be shown light blue  
 ![select1](./images/select1.JPG){: width="20%" height="10%"}  
 ![select2](./images/select2.JPG){: width="20%" height="10%"}  
- 
+<img src = './images/select1.JPG' width = '50px' height = '30px' />
 2. each stage game  
 
 
