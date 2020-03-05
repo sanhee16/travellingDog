@@ -23,21 +23,36 @@ if user passed each stage, it will be shown light blue
 <img src = './images/nextstage.JPG' width = '300px' height = '150px'/> 
 <img src = './images/die.JPG' width = '300px' height = '150px' />   
 
+## Player
+player is motivated my real dog
+<img src = './images/dog1.JPG' width = '300px' height = '150px' />   
+<img src = './images/dog2.JPG' width = '300px' height = '150px' />   
+<img src = './images/player.JPG' width = '300px' height = '150px' />   
 ## items
 there many items to help user  
 1. jumpBall : jumpPower is increased for 3 seconds  
 2. jumpItem : jumpPower is increased when jumping on this item  
 3. life : life is increased  
 4. MoveItem : item can be moved by user, then user can use this *flying leap*  
-5. Bone : finish  
+5. Bone : finish   
+
 ## Points
-1. bronzefish  
-2. silverfish  
-3. goldfish   
+1. bronzefish : 10points  
+2. silverfish : 50points  
+3. goldfish : 100points  
+4. monster : 200points  
+
+## monsters and hurdle
+1. monster : when user collide this, user's life is decreased. But user can kill this by stepping on
+2. monsterCat : when user collide this, user's life is decreased. But user can kill this by stepping on
+3. hurdle : when user collide this, user's life is decreased. 
 
 
-
-
+<img src = './images/monsters.JPG' width = '300px' height = '150px' />   
+<img src = './images/finish.JPG' width = '300px' height = '150px' />   
+<img src = './images/hurdle.JPG' width = '300px' height = '150px' />   
+<img src = './images/item.JPG' width = '300px' height = '150px' />   
+<img src = './images/item_fish.JPG' width = '300px' height = '150px' />   
 
 
 
