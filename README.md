@@ -48,6 +48,11 @@ there many items to help user
 3. hurdle : when user collide this, user's life is decreased. 
 
 
+![monsters](./images/monsters.JPG)    
+![finish](./images/finish.JPG)    
+![hurdle](./images/hurdle.JPG)    
+![item](./images/item.JPG)    
+![item_fish](./images/item_fish.JPG)    
 <img src = './images/monsters.JPG' width = '300px' height = '150px' />   
 <img src = './images/finish.JPG' width = '300px' height = '150px' />   
 <img src = './images/hurdle.JPG' width = '300px' height = '150px' />   
