@@ -21,8 +21,23 @@ if user passed each stage, it will be shown light blue
 <img src = './images/game10.JPG' width = '300px' height = '150px'/> 
 <img src = './images/game6.JPG' width = '300px' height = '150px'/> 
 <img src = './images/nextstage.JPG' width = '300px' height = '150px'/> 
-<img src = './images/die.JPG' width = '300px' height = '150px' />  
-<img src = './images/finish.JPG' width = '300px' height = '150px' />  
+<img src = './images/die.JPG' width = '300px' height = '150px' />   
+
+## items
+there many items to help user  
+1. jumpBall : jumpPower is increased for 3 seconds  
+2. jumpItem : jumpPower is increased when jumping on this item  
+3. life : life is increased  
+4. MoveItem : item can be moved by user, then user can use this *flying leap*  
+5. Bone : finish  
+## Points
+1. bronzefish  
+2. silverfish  
+3. goldfish   
+
+
+
+
 
 
 
