@@ -4,7 +4,8 @@
   
   
 ## Design : Sprites
-using
+using *piskel* free creating sprite https://www.piskelapp.com/
+draw sprites(16px X 16px)
 
 
 
