@@ -37,23 +37,26 @@ there many items to help user
 4. MoveItem : item can be moved by user, then user can use this *flying leap*  
 5. Bone : finish   
 
+![finish](./images/finish.JPG)
+![item](./images/item.JPG)  
+
 ## Points
 1. bronzefish : 10points  
 2. silverfish : 50points  
 3. goldfish : 100points  
 4. monster : 200points  
 
+![monsters](./images/monsters.JPG)
+![item_fish](./images/item_fish.JPG)    
+
 ## monsters and hurdle
 1. monster : when user collide this, user's life is decreased. But user can kill this by stepping on
 2. monsterCat : when user collide this, user's life is decreased. But user can kill this by stepping on
 3. hurdle : when user collide this, user's life is decreased. 
 
-
 ![monsters](./images/monsters.JPG)
-![finish](./images/finish.JPG)
-![hurdle](./images/hurdle.JPG)
-![item](./images/item.JPG)
-![item_fish](./images/item_fish.JPG)    
+![hurdle](./images/hurdle.JPG)   
+
 
 
 
