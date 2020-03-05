@@ -15,9 +15,8 @@ two **Scenes**
 1. stage select  
 user can select stage.  
 if user passed each stage, it will be shown light blue  
-![select1](./images/select1.JPG){: width="20%" height="10%"}  
-![select2](./images/select2.JPG){: width="20%" height="10%"}  
-<img src = './images/select1.JPG' width = '50px' height = '30px' />
+<img src = './images/select1.JPG' width = '150px' height = '100px' />  
+<img src = './images/select2.JPG' width = '150px' height = '100px' />  
 2. each stage game  
 
 
