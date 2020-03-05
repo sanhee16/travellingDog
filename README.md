@@ -15,8 +15,8 @@ two **Scenes**
 1. stage select  
 user can select stage.  
 if user passed each stage, it will be shown light blue  
-![select1](./Assets/images/select1.png)  
-![select2](./Assets/images/select2.png)  
+![select1](./images/select1.png)  
+![select2](./images/select2.png)  
  
 2. each stage game  
 
