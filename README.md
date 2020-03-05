@@ -26,12 +26,10 @@ if user passed each stage, it will be shown light blue
 ## Player
 player is motivated my real dog  
 
-![dog1](./images/dog1.jpg)  
-![dog2](./images/dog2.jpg)    
-![player](./images/player.JPG)    
+![player](./images/player.JPG)  
 <img src = './images/dog1.jpg' width = '300px' height = '150px' />   
 <img src = './images/dog2.jpg' width = '300px' height = '150px' />   
-<img src = './images/player.JPG' width = '300px' height = '150px' />   
+
 ## items
 there many items to help user  
 1. jumpBall : jumpPower is increased for 3 seconds  
@@ -52,10 +50,10 @@ there many items to help user
 3. hurdle : when user collide this, user's life is decreased. 
 
 
-![monsters](./images/monsters.JPG)    
-![finish](./images/finish.JPG)    
-![hurdle](./images/hurdle.JPG)    
-![item](./images/item.JPG)    
+![monsters](./images/monsters.JPG)
+![finish](./images/finish.JPG)
+![hurdle](./images/hurdle.JPG)
+![item](./images/item.JPG)
 ![item_fish](./images/item_fish.JPG)    
 
 
