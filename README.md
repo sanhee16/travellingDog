@@ -10,8 +10,7 @@ draw sprites(16px X 16px)
 ![sprites1](./Assets/Sprites/sprites1.png)
 ![monster](./Assets/Sprites/monster.png)    
 
-## Design : Sprites
-using **piskel** free creating sprite https://www.piskelapp.com/  
-draw sprites(16px X 16px)  
+## Scenes  
+two **Scenes**  1. stage select  2. each stage game  
 
 
